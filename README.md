@@ -1,7 +1,7 @@
 ## 🌏 Welcome to my profile page!
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zlarex.visitor-badge" alt="visitor badge"/>
 
-My name is Zlarex, I live in Indonesia. I have been involved in programming since **2017** (This is my **4**<sup>th</sup> years). I have been involved with it because being able to solve problems, especially on computers, is satisfying and challenging. Especially to get alternative solutions that can result from a solution to a problem.
+My name is Zlarex, I live in Indonesia. I have been involved in programming since **2017** (This is my **4**<sup>th</sup> year). I have been involved with it because being able to solve problems, especially on computer, is satisfying and challenging. Especially to get alternative solutions that can result from a solution to a problem.
 
 Currently, I am a college student.
 

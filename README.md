@@ -1,18 +1,16 @@
 ## 🌏 Welcome to my profile page!
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zlarex.visitor-badge" alt="visitor badge"/>
 
-My name is Zlarex, I live in Indonesia. I have been involved in programming since **2017** (This is my **4**<sup>th</sup> year). I have been involved with it because being able to solve problems, especially on computer, is satisfying and challenging. Especially to get alternative solutions that can result from a solution to a problem.
+My name is Zlarex, I live in Indonesia. I have been involved in programming since **2017** (This is my **5**<sup>th</sup> year). I have been involved with it because being able to solve problems, especially on computer, is satisfying and challenging. Especially to get alternative solutions that can result from a solution to a problem.
 
 Currently, I am a college student.
 
 ### 📚 About Me
-- 🛠 I'm a full-stack developer. But I prefer the back-end rather than front-end
-- 🏠 I prefer to relax and upgrade my skills at home than to go out
-- 🐈 Cat is my favorite animal
-- 👨‍💻 My hobbies are programming and drawing
-- 🚩 Former student of Vocational School (Graduated on **2020**)
-- 🎯 My dream is to create an easy-to-write, high-performance, multi-OS, memory-saving programming language
-- 7️⃣ Seven! Don't ask why :^)
+- 🛠 Back-end
+- 🐈 Meow!
+- 👨‍💻 Programming & Drawing
+- 🚩 Former Student of Vocational School (Graduated on **2020**)
+- 7️⃣ Seven!
 
 ### ☄ Languages and Stuffs
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

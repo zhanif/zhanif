@@ -1,23 +1,21 @@
 ## 🌏 Welcome to my profile page!
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zlarex.visitor-badge" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zhanif.visitor-badge" alt="visitor badge"/>
 
-My name is Zlarex, I live in Indonesia. I have been involved in programming since **2017** (This is my **5**<sup>th</sup> year). I have been involved with it because being able to solve problems, especially on computer, is satisfying and challenging. Especially to get alternative solutions that can result from a solution to a problem.
-
-Currently, I am a college student.
+Zhanif, live in Indonesia. Ever since I entered Vocational High School, my passion for programming has been ignited. The ability to utilize computers to solve problems has not only been satisfying but also presented me with exciting challenges. What truly brings me joy is discovering alternative solutions through problem-solving and witnessing the positive outcomes it yield.
 
 ### 📚 About Me
-- 🛠 Back-end
+- 🛠 Back-End, Front-End, Full-Stack
 - 🐈 Meow!
 - 👨‍💻 Programming & Drawing
-- 🚩 Former Student of Vocational School (Graduated on **2020**)
+- 🚩 Former Student of Vocational High School (Graduated on **2020**)
 - 7️⃣ Seven!
 
 ### ☄ Languages and Stuffs
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -28,6 +26,6 @@ Currently, I am a college student.
 
 ### 📊 Github Information
 #### Statistic
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlarex&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlarex&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhanif&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanif&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 #### Contribution
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zlarex&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zhanif&hide_border=true" />

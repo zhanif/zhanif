@@ -33,7 +33,7 @@ Zhanif, live in Indonesia. Ever since I entered Vocational High School, my passi
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk)&nbsp;
 ![Python3](https://img.shields.io/badge/-Python3-05122A?style=for-the-badge&logo=python)&nbsp;
-#### Android
+#### Mobile
 ![React Native](https://img.shields.io/badge/react_native-05122A?style=for-the-badge&logo=react)&nbsp;
 #### Others
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;

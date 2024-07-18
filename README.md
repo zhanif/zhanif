@@ -9,7 +9,8 @@ Zhanif, live in Indonesia. Ever since I entered Vocational High School, my passi
 - 🛠 Back-End, Front-End, Full-Stack
 - 🐈 Meow!
 - 👨‍💻 Programming & Drawing
-- 🚩 Former Student of Vocational High School (Graduated on **2020**)
+- 🚩 Former Student of Vocational High School (**2020**)
+- 🌟 Applied Bachelor's Degree in Informatics Engineering (**2024**)
 - 7️⃣ Seven!
 
 ***
